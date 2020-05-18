@@ -1,0 +1,10 @@
+The first three lines should be ignored
+Don't include them in your output
+So you'll need to tell 'sed' to ignore them
+#
+# this is a comment
+#
+/* this is a C-style comment */
+BEGIN
+HELLO		# so is this!
+END
