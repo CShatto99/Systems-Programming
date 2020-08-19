@@ -1,5 +1,5 @@
 # Systems-Programming
-This repository contains the recitation, minor and major assignments for my Systems Programming class. 
+This repository contains the major, minor, and recitation assignments for the UNT CSCE 3600 Spring 2020 course. 
 
 ## Major Assignments
   - [Disassembler](https://github.com/CShatto99/Systems-Programming/blob/master/Major-Assignments/disassembler.c)
